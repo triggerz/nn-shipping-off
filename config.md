@@ -1,6 +1,7 @@
 # Config
  - Title: Dilemma
  - Initial Scene: scene-1
+ - Response Url: https://api.triggerz.com/observation/self/dilemma
 
 # Variables
  - Resources: 100
