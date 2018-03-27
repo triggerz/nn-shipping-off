@@ -1,55 +1,44 @@
 # Config
- - Title: Slipping shipping standards
- - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1522013511/dilemma_slipping_shipping_standards.jpg
+ - Title: Waiting for Henrik?
+ - Image: http://res.cloudinary.com/dertn65o7/image/upload/v1522013765/dilemma_waiting_for_henrik.jpg
 
 # Description
-Your team is packing a launch batch, which must not fail. However, the labels are out of the specified area according to SOP. The technicians can't seen to get it right due to variations in the packaging material. The labels are only 0.5 mm out of the specified area and will hardly be noticeable to the customer. What do you do?
+One of your employees, Henrik, has been away on long-term sickness leave for several months. Henrik is a very skilled employee and a well-liked colleague. Thoughout the leave period, you and Henrik have maintained a good dialogue and given eachother regular updates. Henrik is in recovery, but his doctor cannot give an estimated date for when he can resume work. Henrik's sickness leave is approaching 120 days, which means that Novo Nordisk is allowed to dismiss the employee due to too much absence. The workload on your team is high as they are covering for Henrik to the best of their abilities, but his skillset is hard to replace. Despite the high workload you anticipate many in the team will strongly oppose if you choose to dismiss him because he is so well-liked.  So what do you do? 
 
 # Choice
+More than 120 days for an employee is a long time to wait - even for a very skilled employee and a well-like colleague. You inform Henrik that given the circimstances, you have decided to dismiss him. 
 
 
 # Variables
- - Resources: -1
- - Engagement: -1
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+- bringoutthebest-engage-constructive: 0.7
+- rolemodel-setdirection-balance: 0.7
 
 # Feedback
-
+If the skills and knowledge Henrik has are very important to the team’s ability to succeed and you evaluate that his continued absence will put too much pressure on the rest of the team, it’s the right choice to dismiss him. 
 
 # Choice
-
+You assess the "noice" it will create in the team, if you dismiss Henrik, is more damaging for the team than the extra workload. And a replacement for Henrik is hard to find. Therefore, you decide to be patient and wait for Henrik. 
 
 # Variables
- - Resources: -1
- - Engagement: -2
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+- bringoutthebest-engage-constructive: 0.7
 
 # Feedback
+If you evaluate that the team genuinely can cope with the extra workload and Henrik’s missing skills are not affecting quality or crucial results, it’s the right decision to wait for Henrik to return. There may even be a development opportunity for some of the team members in this. 
 
 # Choice
-
-
-# Variables
- - Resources: -3
- - Engagement: -3
- - Output: +3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
-
-# Feedback
-
-
-# Choice
-
+Getting the teams opinion can create joint ownership, so you decide to bring it up with the team and ask if they are up for waiting for Henrik or if you should start looking for a replacement.
 
 # Variables
- - Resources: +0
- - Engagement: -3
- - Output: -3
- - Total: round(((Engagement * Output) / 100) - (100 - Resources))
+- rolemodel-setdirection-balance: 0.2
+- rolemodel-decisions-competition: 0.2
+- rolemodel-decisions-thennway: 0.1
+- yourself-authentic-rolemodel: 0.1
+- bringoutthebest-engage: 0.5
+- bringoutthebest-engage-constructive: 0.7
 
 # Feedback
+Such a decision is not the responsibility of the team - they should not feel that they have been part of deciding if a colleague is dismissed or not. Have an ongoing dialogue with the team about workload to be able to evaluate how being one person short for a longer period of time is impacting engagement, wellbeing and results. But the final decision stays with you. It could be a good idea to consult you manager and HR Partner for advice.  
+
 
 
 
