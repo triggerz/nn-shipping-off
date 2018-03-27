@@ -34,7 +34,6 @@ Getting the teams opinion can create joint ownership, so you decide to bring it 
 - rolemodel-decisions-thennway: 0.1
 - yourself-authentic-rolemodel: 0.1
 - bringoutthebest-engage: 0.5
-- bringoutthebest-engage-constructive: 0.7
 
 # Feedback
 Such a decision is not the responsibility of the team - they should not feel that they have been part of deciding if a colleague is dismissed or not. Have an ongoing dialogue with the team about workload to be able to evaluate how being one person short for a longer period of time is impacting engagement, wellbeing and results. But the final decision stays with you. It could be a good idea to consult you manager and HR Partner for advice.  
