@@ -12,6 +12,7 @@ More than 120 days for an employee is a long time to wait - even for a very skil
 # Variables
 - bringoutthebest-engage-constructive: 0.7
 - rolemodel-setdirection-balance: 0.7
+- rolemodel-decisions-competition: 0.7
 
 # Feedback
 If the skills and knowledge Henrik has are very important to the team’s ability to succeed and you evaluate that his continued absence will put too much pressure on the rest of the team, it’s the right choice to dismiss him. 
@@ -21,6 +22,7 @@ You assess the "noice" it will create in the team, if you dismiss Henrik, is mor
 
 # Variables
 - bringoutthebest-engage-constructive: 0.7
+- rolemodel-decisions-competition: 0.7
 
 # Feedback
 If you evaluate that the team genuinely can cope with the extra workload and Henrik’s missing skills are not affecting quality or crucial results, it’s the right decision to wait for Henrik to return. There may even be a development opportunity for some of the team members in this. 
